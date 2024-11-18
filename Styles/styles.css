@@ -1,0 +1,77 @@
+
+
+
+body {
+
+background-color: bisque;
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+header {
+
+text-align: center;
+margin-top: 20px;
+padding: 30px;
+background-color: brown;
+color: bisque;
+
+
+}
+
+a {
+
+    color: rgb(23, 13, 2);
+    margin: 10%;
+
+}
+
+#navi1 {
+
+text-align: center;
+padding: 20px;
+background-color: rgb(92, 15, 15);
+
+
+}
+
+#navi1 a {
+
+color: blanchedalmond;
+
+}
+
+article {
+
+padding-bottom: 25%;
+
+}
+
+
+
+
+ul {
+
+float: left;
+list-style-type: none;
+margin: 0;
+width: 20%;
+background-color: rgb(255, 182, 127);
+text-align: center;
+padding-bottom: 300px;
+
+}
+
+footer {
+
+
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+
+}
+
